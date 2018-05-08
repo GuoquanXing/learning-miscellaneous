@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 /**
 **selectserver.c -- a cheezy multiperson chat server
+=======
+/*
+** selectserver.c -- a cheezy multiperson chat server
+>>>>>>> bb795949df79361d33a0f7aff55c74d6da6c80fb
 */
 
 #include <stdio.h>
